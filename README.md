@@ -2,8 +2,8 @@
 Add notes to webpage that is kept track of on server side.
 
 ## Features
-* Add notes to webpage as reminders
-* Interface for 
+* Add notes to webpage as reminders or tasks.
+* Save notes where the save button only appears when a title changes or text changes.
 
 ## Potential Future Upgrades
 * Edit notes that have already been made.
